@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "203978470037",
+    "project_id": "iot-4051b",
+    "storage_bucket": "iot-4051b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203978470037:android:0b928ddddc1412beaaa19c",
+        "android_client_info": {
+          "package_name": "com.example.iot_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNjBuQ1jPZRzw-gmpRXMy9pa_i9ND7KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
