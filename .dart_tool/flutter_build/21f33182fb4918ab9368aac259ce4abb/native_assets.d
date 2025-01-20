@@ -1,0 +1,1 @@
+ C:\\Users\\Malek\\iot_project\\.dart_tool\\flutter_build\\21f33182fb4918ab9368aac259ce4abb\\native_assets.yaml: 

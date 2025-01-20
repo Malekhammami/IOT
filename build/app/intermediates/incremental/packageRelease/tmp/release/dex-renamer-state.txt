@@ -1,0 +1,4 @@
+#Tue Dec 31 13:29:16 CET 2024
+base.0=C\:\\Users\\Malek\\iot_project\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
